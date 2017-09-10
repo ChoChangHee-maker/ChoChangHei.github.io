@@ -36,4 +36,15 @@
 5. 개발방식
     - restful api (취업추천)
     - MVC ( model - controller - view )
+6. 프론트엔드
+    - HTML, CSS, JS
+7. 프론트방식
+    - SPA ( react(배울거) , angular, vue )
+    - 페이지이동 방식
+8. ui/ux
+    - 반응형
+    - 하이브리드 ( 웹 + 모바일웹 )
+    - 네이트브 ( 웹 + 앱 )
+    
+
 ```
